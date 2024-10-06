@@ -1,0 +1,124 @@
+.fahkwang-regular {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fahkwang-medium {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fahkwang-semibold {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fahkwang-bold {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fahkwang-regular-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .fahkwang-medium-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .fahkwang-semibold-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .fahkwang-bold-italic {
+    font-family: "Fahkwang", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+
+  html{
+    background: url('immagine.jpg') no-repeat center fixed;
+    background-size: cover;
+  }
+
+  body{
+    font-family: "fahkwang", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    color: rgb(0, 170, 255);
+  }
+
+.txtOrange{
+    color: rgb(0, 170, 255);
+}
+
+.iconBigger{
+    font-size: 40px;
+    border: solid 2px;
+    border-radius: 5px;
+    background-color: rgba(0, 255, 221, 0);
+}
+
+.btnStyle1{
+    background-color: transparent;
+    border: none;
+    font-size: 17px;
+    color: rgb(0, 170, 255);
+}
+
+.listaNera{
+  color: black;
+}
+
+.btnStyle1 :hover{
+    cursor: pointer;
+}
+
+.trashBin{
+  background-color: transparent;
+  border: none;
+  font-size: 17px;
+  color: rgb(91, 88, 88);
+}
+
+.trashBin :hover{
+  cursor: pointer;
+}
+
+.modifier{
+  background-color: transparent;
+  border: none;
+  font-size: 17px;
+  color: rgb(235, 235, 43);
+}
+
+.modifier :hover{
+  cursor: pointer;
+}
+
+.barrato{
+    text-decoration: line-through;
+}
+
+.txtUnderline{
+    text-decoration: underline;
+}
+
+.txtRed{
+    color: red;
+}
+
+
+.bgBeige{
+    background-color: bisque;
+}
